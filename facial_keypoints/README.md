@@ -20,19 +20,19 @@ This project is broken down into 4 parts:
 
 Part 1: Loading and Visualizing the Facial Keypoint Data
 
-http://htmlpreview.github.io/?https://github.com/jonessarae/computer_vision_projects/blob/master/facial_keypoints/1. Load and Visualize Data.html
+http://htmlpreview.github.io/?https://github.com/jonessarae/computer_vision_projects/blob/master/facial_keypoints/1.LoadandVisualizeData.html
 
 Part 2: Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
 
-http://htmlpreview.github.io/?https://github.com/jonessarae/computer_vision_projects/blob/master/facial_keypoints/2. Define the Network Architecture.html
+http://htmlpreview.github.io/?https://github.com/jonessarae/computer_vision_projects/blob/master/facial_keypoints/2.DefinetheNetworkArchitecture.html
 
 Part 3: Facial Keypoint Detection Using Haar Cascades and your Trained CNN
 
-http://htmlpreview.github.io/?https://github.com/jonessarae/computer_vision_projects/blob/master/facial_keypoints/3. Facial Keypoint Detection, Complete Pipeline.html
+http://htmlpreview.github.io/?https://github.com/jonessarae/computer_vision_projects/blob/master/facial_keypoints/3.FacialKeypointDetection,CompletePipeline.html
 
 Part 4: Fun Filters and Keypoint Uses
 
-http://htmlpreview.github.io/?https://github.com/jonessarae/computer_vision_projects/blob/master/facial_keypoints/4. Fun with Keypoints.html
+http://htmlpreview.github.io/?https://github.com/jonessarae/computer_vision_projects/blob/master/facial_keypoints/4.FunwithKeypoints.html
 
 ## Acknowledgements
 
