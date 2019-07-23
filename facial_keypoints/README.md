@@ -4,9 +4,7 @@
 
 Build a facial keypoint detection system using computer vision techniques and deep learning architectures.
 
-[//]: # (Image References)
-
-[image]: ./images/key_pts_example.png "Facial Keypoint Detection"
+<img src="https://github.com/jonessarae/computer_vision_projects/blob/master/facial_keypoints/images/key_pts_example.png">
 
 ## Software
 
