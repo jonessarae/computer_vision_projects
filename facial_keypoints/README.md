@@ -6,6 +6,16 @@ Build a facial keypoint detection system using computer vision techniques and de
 
 ## Software
 
+* Python==3.7.3
+* matplotlib==3.0.3
+* numpy==1.16.3
+* opencv-python==4.1.0.25
+* pandas==0.24.2
+* torch==1.1.0
+* torchvision==0.2.2
+
+All other software and versions used are listed in *requirements.txt*. 
+
 ## Data
 
 Data provided by Udacity. 
