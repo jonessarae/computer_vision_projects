@@ -1,3 +1,5 @@
 Download model with weights at: 
 
 https://drive.google.com/file/d/1O2yXfsxtY9vIxjb6t32HRCROB-xRRuaj/view?usp=sharing
+
+Save file in this folder.
